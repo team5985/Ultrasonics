@@ -1,0 +1,65 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATtiny2313"</DEVICE>
+ <WORKING_DIR>C:\Users\Graham\Documents\Atmel Studio\7.0\gctest\gctest\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATtiny_DFP\1.3.229\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Graham\Documents\Atmel Studio\7.0\gctest\gctest\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATtiny_DFP\1.3.229\avrasm\inc\tn2313def.inc</FILE>
+  <FILE>C:\Users\Graham\Documents\Atmel Studio\7.0\gctest\gctest\avr.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Graham\Documents\Atmel Studio\7.0\gctest\gctest\Debug\gctest.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>gctest.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>gctest.map</FILE>
+  <FILE>gctest.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <I2CsubAddrBuf><FILE>C:\Users\Graham\Documents\Atmel Studio\7.0\gctest\gctest\main.asm</FILE><LINE>44</LINE></I2CsubAddrBuf>
+  <RESET><FILE>C:\Users\Graham\Documents\Atmel Studio\7.0\gctest\gctest\main.asm</FILE><LINE>250</LINE></RESET>
+  <INTH0><FILE>C:\Users\Graham\Documents\Atmel Studio\7.0\gctest\gctest\main.asm</FILE><LINE>368</LINE></INTH0>
+  <INTH1><FILE>C:\Users\Graham\Documents\Atmel Studio\7.0\gctest\gctest\main.asm</FILE><LINE>369</LINE></INTH1>
+  <TIM1_CAPT><FILE>C:\Users\Graham\Documents\Atmel Studio\7.0\gctest\gctest\main.asm</FILE><LINE>306</LINE></TIM1_CAPT>
+  <TIM1_COMPA><FILE>C:\Users\Graham\Documents\Atmel Studio\7.0\gctest\gctest\main.asm</FILE><LINE>370</LINE></TIM1_COMPA>
+  <TIM1_OVF><FILE>C:\Users\Graham\Documents\Atmel Studio\7.0\gctest\gctest\main.asm</FILE><LINE>371</LINE></TIM1_OVF>
+  <TIM0_OVF><FILE>C:\Users\Graham\Documents\Atmel Studio\7.0\gctest\gctest\main.asm</FILE><LINE>340</LINE></TIM0_OVF>
+  <USART0_RXC><FILE>C:\Users\Graham\Documents\Atmel Studio\7.0\gctest\gctest\main.asm</FILE><LINE>372</LINE></USART0_RXC>
+  <USART0_DRE><FILE>C:\Users\Graham\Documents\Atmel Studio\7.0\gctest\gctest\main.asm</FILE><LINE>373</LINE></USART0_DRE>
+  <USART0_TXC><FILE>C:\Users\Graham\Documents\Atmel Studio\7.0\gctest\gctest\main.asm</FILE><LINE>374</LINE></USART0_TXC>
+  <ANA_COMP><FILE>C:\Users\Graham\Documents\Atmel Studio\7.0\gctest\gctest\main.asm</FILE><LINE>375</LINE></ANA_COMP>
+  <PCINT><FILE>C:\Users\Graham\Documents\Atmel Studio\7.0\gctest\gctest\main.asm</FILE><LINE>376</LINE></PCINT>
+  <TIMER1_COMPB><FILE>C:\Users\Graham\Documents\Atmel Studio\7.0\gctest\gctest\main.asm</FILE><LINE>377</LINE></TIMER1_COMPB>
+  <TIMER0_COMPA><FILE>C:\Users\Graham\Documents\Atmel Studio\7.0\gctest\gctest\main.asm</FILE><LINE>378</LINE></TIMER0_COMPA>
+  <TIMER0_COMPB><FILE>C:\Users\Graham\Documents\Atmel Studio\7.0\gctest\gctest\main.asm</FILE><LINE>379</LINE></TIMER0_COMPB>
+  <USI_START><FILE>C:\Users\Graham\Documents\Atmel Studio\7.0\gctest\gctest\main.asm</FILE><LINE>89</LINE></USI_START>
+  <USI_OVERFLOW><FILE>C:\Users\Graham\Documents\Atmel Studio\7.0\gctest\gctest\main.asm</FILE><LINE>111</LINE></USI_OVERFLOW>
+  <EE_READY><FILE>C:\Users\Graham\Documents\Atmel Studio\7.0\gctest\gctest\main.asm</FILE><LINE>380</LINE></EE_READY>
+  <WDT_OVERFLOW><FILE>C:\Users\Graham\Documents\Atmel Studio\7.0\gctest\gctest\main.asm</FILE><LINE>381</LINE></WDT_OVERFLOW>
+  <CheckAddress><FILE>C:\Users\Graham\Documents\Atmel Studio\7.0\gctest\gctest\main.asm</FILE><LINE>220</LINE></CheckAddress>
+  <WriteData><FILE>C:\Users\Graham\Documents\Atmel Studio\7.0\gctest\gctest\main.asm</FILE><LINE>189</LINE></WriteData>
+  <ReadData1><FILE>C:\Users\Graham\Documents\Atmel Studio\7.0\gctest\gctest\main.asm</FILE><LINE>183</LINE></ReadData1>
+  <Ask0><FILE>C:\Users\Graham\Documents\Atmel Studio\7.0\gctest\gctest\main.asm</FILE><LINE>167</LINE></Ask0>
+  <ResetUSI><FILE>C:\Users\Graham\Documents\Atmel Studio\7.0\gctest\gctest\main.asm</FILE><LINE>196</LINE></ResetUSI>
+  <PutData><FILE>C:\Users\Graham\Documents\Atmel Studio\7.0\gctest\gctest\main.asm</FILE><LINE>136</LINE></PutData>
+  <I2CdataRX_outAL><FILE>C:\Users\Graham\Documents\Atmel Studio\7.0\gctest\gctest\main.asm</FILE><LINE>241</LINE></I2CdataRX_outAL>
+  <I2CdataRX_out7E><FILE>C:\Users\Graham\Documents\Atmel Studio\7.0\gctest\gctest\main.asm</FILE><LINE>239</LINE></I2CdataRX_out7E>
+  <WriteData0><FILE>C:\Users\Graham\Documents\Atmel Studio\7.0\gctest\gctest\main.asm</FILE><LINE>202</LINE></WriteData0>
+  <DoData><FILE>C:\Users\Graham\Documents\Atmel Studio\7.0\gctest\gctest\main.asm</FILE><LINE>210</LINE></DoData>
+  <Send_ASK><FILE>C:\Users\Graham\Documents\Atmel Studio\7.0\gctest\gctest\main.asm</FILE><LINE>233</LINE></Send_ASK>
+  <initloop1><FILE>C:\Users\Graham\Documents\Atmel Studio\7.0\gctest\gctest\main.asm</FILE><LINE>266</LINE></initloop1>
+  <MainLoop><FILE>C:\Users\Graham\Documents\Atmel Studio\7.0\gctest\gctest\main.asm</FILE><LINE>301</LINE></MainLoop>
+  <ICR_Rising><FILE>C:\Users\Graham\Documents\Atmel Studio\7.0\gctest\gctest\main.asm</FILE><LINE>327</LINE></ICR_Rising>
+  <ICR_Falling><FILE>C:\Users\Graham\Documents\Atmel Studio\7.0\gctest\gctest\main.asm</FILE><LINE>316</LINE></ICR_Falling>
+  <ICR_End><FILE>C:\Users\Graham\Documents\Atmel Studio\7.0\gctest\gctest\main.asm</FILE><LINE>333</LINE></ICR_End>
+  <LastOK><FILE>C:\Users\Graham\Documents\Atmel Studio\7.0\gctest\gctest\main.asm</FILE><LINE>353</LINE></LastOK>
+  <LEDLit><FILE>C:\Users\Graham\Documents\Atmel Studio\7.0\gctest\gctest\main.asm</FILE><LINE>361</LINE></LEDLit>
+ </LABELS>
+</ASSEMBLER_INFO>
