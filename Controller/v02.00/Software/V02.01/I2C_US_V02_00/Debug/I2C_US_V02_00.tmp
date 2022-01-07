@@ -1,0 +1,46 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATtiny214"</DEVICE>
+ <WORKING_DIR>O:\FRC\PCBs\US_to_I2C_Interface\Code\I2C_US_V02_01\I2C_US_V02_00\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATtiny_DFP\1.3.229\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>O:\FRC\PCBs\US_to_I2C_Interface\Code\I2C_US_V02_01\I2C_US_V02_00\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATtiny_DFP\1.3.229\avrasm\inc\tn214def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>O:\FRC\PCBs\US_to_I2C_Interface\Code\I2C_US_V02_01\I2C_US_V02_00\Debug\I2C_US_V02_00.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>I2C_US_V02_00.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>I2C_US_V02_00.map</FILE>
+  <FILE>I2C_US_V02_00.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <I2CsubAddrBuf><FILE>O:\FRC\PCBs\US_to_I2C_Interface\Code\I2C_US_V02_01\I2C_US_V02_00\main.asm</FILE><LINE>61</LINE></I2CsubAddrBuf>
+  <RESET><FILE>O:\FRC\PCBs\US_to_I2C_Interface\Code\I2C_US_V02_01\I2C_US_V02_00\main.asm</FILE><LINE>118</LINE></RESET>
+  <ISR><FILE>O:\FRC\PCBs\US_to_I2C_Interface\Code\I2C_US_V02_01\I2C_US_V02_00\main.asm</FILE><LINE>424</LINE></ISR>
+  <TCA0_OVF_ISR><FILE>O:\FRC\PCBs\US_to_I2C_Interface\Code\I2C_US_V02_01\I2C_US_V02_00\main.asm</FILE><LINE>361</LINE></TCA0_OVF_ISR>
+  <TCB0_INT_ISR><FILE>O:\FRC\PCBs\US_to_I2C_Interface\Code\I2C_US_V02_01\I2C_US_V02_00\main.asm</FILE><LINE>403</LINE></TCB0_INT_ISR>
+  <TWI0_TWIS_ISR><FILE>O:\FRC\PCBs\US_to_I2C_Interface\Code\I2C_US_V02_01\I2C_US_V02_00\main.asm</FILE><LINE>256</LINE></TWI0_TWIS_ISR>
+  <TWI0_TWIM_ISR><FILE>O:\FRC\PCBs\US_to_I2C_Interface\Code\I2C_US_V02_01\I2C_US_V02_00\main.asm</FILE><LINE>358</LINE></TWI0_TWIM_ISR>
+  <initloop1><FILE>O:\FRC\PCBs\US_to_I2C_Interface\Code\I2C_US_V02_01\I2C_US_V02_00\main.asm</FILE><LINE>149</LINE></initloop1>
+  <MainLoop><FILE>O:\FRC\PCBs\US_to_I2C_Interface\Code\I2C_US_V02_01\I2C_US_V02_00\main.asm</FILE><LINE>226</LINE></MainLoop>
+  <TWI0_NO_APIF><FILE>O:\FRC\PCBs\US_to_I2C_Interface\Code\I2C_US_V02_01\I2C_US_V02_00\main.asm</FILE><LINE>316</LINE></TWI0_NO_APIF>
+  <TWI0_STOP><FILE>O:\FRC\PCBs\US_to_I2C_Interface\Code\I2C_US_V02_01\I2C_US_V02_00\main.asm</FILE><LINE>309</LINE></TWI0_STOP>
+  <TWI0_READ><FILE>O:\FRC\PCBs\US_to_I2C_Interface\Code\I2C_US_V02_01\I2C_US_V02_00\main.asm</FILE><LINE>277</LINE></TWI0_READ>
+  <TWI0_DATAR><FILE>O:\FRC\PCBs\US_to_I2C_Interface\Code\I2C_US_V02_01\I2C_US_V02_00\main.asm</FILE><LINE>328</LINE></TWI0_DATAR>
+  <TWI0_DATAW><FILE>O:\FRC\PCBs\US_to_I2C_Interface\Code\I2C_US_V02_01\I2C_US_V02_00\main.asm</FILE><LINE>345</LINE></TWI0_DATAW>
+  <YLEDLit><FILE>O:\FRC\PCBs\US_to_I2C_Interface\Code\I2C_US_V02_01\I2C_US_V02_00\main.asm</FILE><LINE>371</LINE></YLEDLit>
+  <GLEDLit><FILE>O:\FRC\PCBs\US_to_I2C_Interface\Code\I2C_US_V02_01\I2C_US_V02_00\main.asm</FILE><LINE>380</LINE></GLEDLit>
+  <FBOff><FILE>O:\FRC\PCBs\US_to_I2C_Interface\Code\I2C_US_V02_01\I2C_US_V02_00\main.asm</FILE><LINE>395</LINE></FBOff>
+  <FBOn><FILE>O:\FRC\PCBs\US_to_I2C_Interface\Code\I2C_US_V02_01\I2C_US_V02_00\main.asm</FILE><LINE>387</LINE></FBOn>
+  <FBEnd><FILE>O:\FRC\PCBs\US_to_I2C_Interface\Code\I2C_US_V02_01\I2C_US_V02_00\main.asm</FILE><LINE>399</LINE></FBEnd>
+  <GoodMeas><FILE>O:\FRC\PCBs\US_to_I2C_Interface\Code\I2C_US_V02_01\I2C_US_V02_00\main.asm</FILE><LINE>413</LINE></GoodMeas>
+ </LABELS>
+</ASSEMBLER_INFO>
